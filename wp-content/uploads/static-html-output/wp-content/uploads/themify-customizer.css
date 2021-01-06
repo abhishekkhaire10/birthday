@@ -1,0 +1,6 @@
+body[class*="themify"] #site-logo a {line-height: 1px;text-transform: uppercase;text-align: center;}
+body[class*="themify"] #site-logo a img {width: 100px;height: 90px;}
+#site-description {line-height: 1px;text-transform: uppercase;text-align: justify;color: #0a0a0a;}
+@media screen and (max-width: 1024px) {body[class*="themify"] #site-logo a img {width: 100px;height: 90px;}}
+@media screen and (max-width: 768px) {body[class*="themify"] #site-logo a img {width: 100px;height: 90px;}}
+@media screen and (max-width: 480px) {body[class*="themify"] #site-logo a img {width: 100px;height: 90px;}}
